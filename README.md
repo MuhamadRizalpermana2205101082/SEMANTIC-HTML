@@ -2,6 +2,7 @@
 
 ## Praktikum SEMANTIC HTML
 project analisis semantic html
+Muhamad Rizal Permana 2205101083
 
 name: Update README Analysis
 
